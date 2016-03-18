@@ -20,4 +20,5 @@ char **charSquare(int n)
 void drawCharSquare(char **square, int n)
 {
 
-}
+
+//deded
